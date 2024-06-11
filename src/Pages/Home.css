@@ -1,0 +1,20 @@
+.text-dark-heading {
+  color: #333; /* Adjust as needed */
+}
+
+.dark .text-light-heading {
+  color: #fff; /* Adjust as needed */
+}
+
+.bg-clip-text {
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.bg-gradient {
+  background: linear-gradient(90deg, #ff7e5f, #feb47b); /* Adjust as needed */
+}
+
+.text-transparent {
+  color: transparent;
+}
